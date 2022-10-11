@@ -1,0 +1,3301 @@
+,Epoch,TrainLoss,TestLoss,model,criterion,optimizer,commodity_name
+0,1,0.7027919292449951,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+1,2,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+2,3,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+3,4,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+4,5,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+5,6,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+6,7,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+7,8,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+8,9,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+9,10,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+10,11,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+11,12,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+12,13,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+13,14,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+14,15,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+15,16,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+16,17,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+17,18,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+18,19,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+19,20,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+20,21,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+21,22,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+22,23,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+23,24,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+24,25,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+25,26,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+26,27,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+27,28,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+28,29,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+29,30,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+30,31,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+31,32,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+32,33,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+33,34,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+34,35,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+35,36,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+36,37,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+37,38,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+38,39,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+39,40,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+40,41,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+41,42,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+42,43,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+43,44,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+44,45,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+45,46,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+46,47,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+47,48,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+48,49,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+49,50,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+50,51,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+51,52,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+52,53,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+53,54,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+54,55,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+55,56,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+56,57,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+57,58,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+58,59,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+59,60,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+60,61,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+61,62,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+62,63,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+63,64,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+64,65,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+65,66,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+66,67,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+67,68,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+68,69,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+69,70,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+70,71,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+71,72,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+72,73,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+73,74,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+74,75,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+75,76,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+76,77,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+77,78,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+78,79,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+79,80,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+80,81,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+81,82,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+82,83,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+83,84,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+84,85,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+85,86,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+86,87,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+87,88,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+88,89,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+89,90,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+90,91,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+91,92,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+92,93,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+93,94,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+94,95,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+95,96,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+96,97,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+97,98,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+98,99,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+99,100,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+100,101,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+101,102,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+102,103,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+103,104,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+104,105,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+105,106,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+106,107,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+107,108,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+108,109,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+109,110,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+110,111,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+111,112,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+112,113,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+113,114,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+114,115,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+115,116,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+116,117,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+117,118,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+118,119,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+119,120,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+120,121,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+121,122,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+122,123,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+123,124,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+124,125,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+125,126,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+126,127,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+127,128,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+128,129,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+129,130,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+130,131,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+131,132,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+132,133,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+133,134,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+134,135,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+135,136,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+136,137,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+137,138,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+138,139,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+139,140,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+140,141,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+141,142,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+142,143,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+143,144,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+144,145,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+145,146,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+146,147,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+147,148,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+148,149,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+149,150,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+150,151,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+151,152,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+152,153,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+153,154,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+154,155,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+155,156,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+156,157,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+157,158,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+158,159,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+159,160,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+160,161,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+161,162,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+162,163,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+163,164,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+164,165,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+165,166,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+166,167,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+167,168,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+168,169,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+169,170,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+170,171,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+171,172,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+172,173,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+173,174,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+174,175,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+175,176,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+176,177,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+177,178,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+178,179,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+179,180,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+180,181,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+181,182,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+182,183,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+183,184,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+184,185,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+185,186,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+186,187,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+187,188,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+188,189,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+189,190,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+190,191,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+191,192,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+192,193,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+193,194,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+194,195,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+195,196,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+196,197,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+197,198,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+198,199,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+199,200,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+200,201,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+201,202,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+202,203,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+203,204,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+204,205,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+205,206,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+206,207,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+207,208,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+208,209,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+209,210,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+210,211,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+211,212,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+212,213,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+213,214,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+214,215,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+215,216,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+216,217,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+217,218,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+218,219,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+219,220,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+220,221,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+221,222,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+222,223,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+223,224,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+224,225,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+225,226,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+226,227,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+227,228,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+228,229,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+229,230,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+230,231,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+231,232,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+232,233,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+233,234,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+234,235,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+235,236,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+236,237,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+237,238,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+238,239,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+239,240,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+240,241,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+241,242,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+242,243,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+243,244,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+244,245,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+245,246,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+246,247,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+247,248,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+248,249,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+249,250,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+250,251,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+251,252,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+252,253,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+253,254,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+254,255,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+255,256,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+256,257,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+257,258,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+258,259,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+259,260,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+260,261,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+261,262,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+262,263,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+263,264,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+264,265,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+265,266,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+266,267,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+267,268,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+268,269,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+269,270,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+270,271,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+271,272,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+272,273,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+273,274,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+274,275,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+275,276,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+276,277,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+277,278,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+278,279,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+279,280,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+280,281,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+281,282,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+282,283,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+283,284,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+284,285,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+285,286,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+286,287,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+287,288,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+288,289,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+289,290,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+290,291,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+291,292,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+292,293,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+293,294,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+294,295,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+295,296,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+296,297,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+297,298,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+298,299,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
+299,300,,,"RNN(
+  (rnn): LSTM(8, 3, num_layers=2, batch_first=True, dropout=0.2)
+  (fc): Linear(in_features=3, out_features=1, bias=True)
+)",BCEWithLogitsLoss(),"Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.01
+    weight_decay: 0
+)",Mexican Peso
